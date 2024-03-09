@@ -1,6 +1,13 @@
-# lostmediafinder
+# YouTube Video And Channel Archive.
 
 Currently YouTube is the only supported site, but that might change.
+
+this search engine finds all YouTube content ranging from deleted unlisted private current content.
+
+all you have to do is enter a search phrase in the search bar and press search.
+
+it also has a advanced search feature for searching for by year published date and filter by YouTube channel.
+
 
 Contributions are welcome!
 
