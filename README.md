@@ -8,6 +8,9 @@ all you have to do is enter a search phrase in the search bar and press search.
 
 it also has a advanced search feature for searching for by year published date and filter by YouTube channel.
 
+the video search engine also has a download feature on every video and channel on the bottom of each 
+video and channel account profile avatar logo either way you could download a video or a entire channel
+and save it for offline viewing.
 
 Contributions are welcome!
 
